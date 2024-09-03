@@ -1,6 +1,3 @@
-# Dupla: 
-# Guilherme Matos Nery De Araujo Rodrigues
-# Andrei Raí Nunes de Araújo 
 # Turma: DCA0130
 
 #################
